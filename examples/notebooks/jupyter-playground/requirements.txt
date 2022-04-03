@@ -1,7 +1,0 @@
-wheel
-git+ssh://git@github.com/nludb/python-client@main
-notebook
-ipykernel
-setuptools-scm
-requests
-pandas
